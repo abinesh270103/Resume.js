@@ -59,7 +59,7 @@ nav{
 	width:100%;
 	height:calc(100vh-90px);
 	padding:0 15%;
-	margin-top:10px;
+	margin-top:1px;
 	overflow:hidden;
 	display:flex;
 	justify-content:center;
